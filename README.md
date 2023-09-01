@@ -3,17 +3,19 @@
 
 This repo is used to store APK's of projects I've created. 
 
+
 ## Installation
 
-Dont know how to install?
+Don't know how to install it?
 ```bash
   npm install my-project
   cd my-project
   ...
   Just kidding...
 ```
-Download and extract the zip file from above
-
+Find the APK to the RIGHT in RELEASES 
+OR
+Click on the link https://github.com/DarkRedOS/APK/releases
 Check out this website for more info:-  https://www.lifewire.com/install-apk-on-android-4177185 
 ## 🔗 Links
 
