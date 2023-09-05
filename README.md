@@ -1,7 +1,7 @@
 
 # APK
 
-This repo is used to store APK's of projects I've created. 
+This repo is used to store APKs of projects I've created. 
 
 
 ## Installation
