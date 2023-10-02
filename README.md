@@ -13,7 +13,7 @@ Don't know how to install it?
   ...
   Just kidding...
 ```
-Find the APK to the RIGHT in RELEASES 
+Find the APK to the RIGHT in RELEASES >>
 OR
 Click on the link https://github.com/DarkRedOS/APK/releases
 Check out this website for more info:-  https://www.lifewire.com/install-apk-on-android-4177185 
